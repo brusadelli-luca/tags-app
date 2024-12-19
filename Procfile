@@ -1,0 +1,1 @@
+web: gunicorn tags_app:app --preload
